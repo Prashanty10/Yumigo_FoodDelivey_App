@@ -8,6 +8,7 @@ The project is built using **React Native (Expo) for the frontend** and **Node.j
 ## 📱 App Screens
 
 <p align="center">
+   <img src="Yumigo/app/Screenshots/splash.jpeg" width="250"/>
   <img src="Yumigo/app/Screenshots/login.jpeg" width="250"/>
   <img src="Yumigo/app/Screenshots/register.jpeg" width="250"/>
   <img src="Yumigo/app/Screenshots/home.jpeg" width="250"/>
@@ -19,9 +20,7 @@ The project is built using **React Native (Expo) for the frontend** and **Node.j
   <img src="Yumigo/app/Screenshots/profile.jpeg" width="250"/>
 </p>
 
-<p align="center">
-  <img src="Yumigo/app/Screenshots/splash.jpeg" width="250"/>
-</p>
+
 
 
 # 🚀 Features
