@@ -5,6 +5,24 @@ Yumigo is a **full-stack food delivery mobile application** that allows users to
 The project is built using **React Native (Expo) for the frontend** and **Node.js, Express, and MongoDB for the backend API**.
 
 ---
+## 📱 App Screens
+
+<p align="center">
+  <img src="Screenshots/splashscreen.png" width="250"/>
+  <img src="Screenshots/Login.png" width="250"/>
+  <img src="Screenshots/Register.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Home.jpeg" width="250"/>
+  <img src="Screenshots/food.jpeg" width="250"/>
+  <img src="Screenshots/order.jpeg" width="250"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/profile.jpeg" width="250"/>
+</p>
+
 
 # 🚀 Features
 
@@ -182,29 +200,6 @@ npx expo start
 
 ---
 
-# 📸 Screens (Add later)
-
-You can add screenshots like:
-
-• Login Screen
-• Home Screen
-• Restaurant Menu
-• Cart Page
-• Profile Page
-
----
-
-# 🔮 Future Improvements
-
-• Online Payment Integration
-• Order Tracking
-• Push Notifications
-• Restaurant Reviews & Ratings
-
----
-
-# 👨‍💻 Author
-
 **Prashant Yadav**
 
 GitHub
@@ -215,4 +210,4 @@ https://www.linkedin.com/in/prashant-yadav-55258837b/
 
 ---
 
-⭐ If you like this project, consider giving it a **star on GitHub**.
+
