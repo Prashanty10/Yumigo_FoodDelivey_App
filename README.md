@@ -8,20 +8,20 @@ The project is built using **React Native (Expo) for the frontend** and **Node.j
 ## 📱 App Screens
 
 <p align="center">
-  <img src="Screenshots/splashscreen.png" width="250"/>
-  <img src="Screenshots/Login.png" width="250"/>
-  <img src="Screenshots/Register.png" width="250"/>
+  <img src="./Screenshots/splashscreen.png" width="250"/>
+  <img src="./Screenshots/Login.png" width="250"/>
+  <img src="./Screenshots/Register.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/Home.jpeg" width="250"/>
-  <img src="Screenshots/food.jpeg" width="250"/>
-  <img src="Screenshots/order.jpeg" width="250"/>
+  <img src="./Screenshots/Home.jpeg" width="250"/>
+  <img src="./Screenshots/food.jpeg" width="250"/>
+  <img src="./Screenshots/order.jpeg" width="250"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/profile.jpeg" width="250"/>
-</p>
+  <img src="./Screenshots/profile.jpeg" width="250"/>
+</p>>
 
 
 # 🚀 Features
