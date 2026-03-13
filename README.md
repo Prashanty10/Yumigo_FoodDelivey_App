@@ -129,7 +129,7 @@ Yumigo_FoodDelivery_App
 ### Home Screen
 ![Home](Screenshots/Home.jpeg)
 
-### Food Menu
+### Food Screen
 ![Food](Screenshots/food.jpeg)
 
 ### Order Screen
@@ -137,6 +137,7 @@ Yumigo_FoodDelivery_App
 
 ### Profile Screen
 ![Profile](Screenshots/profile.jpeg)
+
 
 # ⚙️ Installation Guide
 
