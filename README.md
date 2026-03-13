@@ -1,4 +1,4 @@
-<img width="2060" height="721" alt="image" src="https://github.com/user-attachments/assets/dc4f0173-341a-4f53-9903-b9b00872174a" /># 🍔 Yumigo Food Delivery App
+# 🍔 Yumigo Food Delivery App
 
 Yumigo is a **full-stack food delivery mobile application** that allows users to explore restaurants, browse menus, add food to cart, and place orders through a smooth mobile interface.
 
@@ -118,19 +118,19 @@ Yumigo_FoodDelivery_App
 ## 📱 App Screens
 
 <p align="center">
-  <img src="Screenshots/splashscreen.png" width="250"/>
-  <img src="Screenshots/Login.png" width="250"/>
-  <img src="Screenshots/Register.png" width="250"/>
+  <img src="./Screenshots/splashscreen.png" width="250"/>
+  <img src="./Screenshots/Login.png" width="250"/>
+  <img src="./Screenshots/Register.png" width="250"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/Home.jpeg" width="250"/>
-  <img src="Screenshots/food.jpeg" width="250"/>
-  <img src="Screenshots/order.jpeg" width="250"/>
+  <img src="./Screenshots/Home.jpeg" width="250"/>
+  <img src="./Screenshots/food.jpeg" width="250"/>
+  <img src="./Screenshots/order.jpeg" width="250"/>
 </p>
 
 <p align="center">
-  <img src="Screenshots/profile.jpeg" width="250"/>
+  <img src="./Screenshots/profile.jpeg" width="250"/>
 </p>
 
 # ⚙️ Installation Guide
