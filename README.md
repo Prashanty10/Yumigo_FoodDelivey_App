@@ -1,6 +1,6 @@
 # 🍔 Yumigo Food Delivery App
 
-Yumigo is a **full-stack food delivery mobile application** that allows users to explore restaurants, browse menus, add food to cart, and place orders through a smooth mobile interface.
+Yumigo is a **food delivery mobile application** that allows users to explore restaurants, browse menus, add food to cart, and place orders through a smooth mobile interface.
 
 The project is built using **React Native (Expo) for the frontend** and **Node.js, Express, and MongoDB for the backend API**.
 
